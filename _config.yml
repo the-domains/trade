@@ -1,7 +1,7 @@
 name: trade
 favicon: null
-layout_spectrum: 0.49100665748119354
-typography_spectrum: 0.0429320631083101
+layout_spectrum: 0.24936
+typography_spectrum: 0.99162
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.46840408514253795
-  lightness: 0.06777475797571242
-  saturation: 0.38734184694476426
-  rhythmicContrast: 0.6835770311299711
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
